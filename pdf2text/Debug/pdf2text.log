@@ -1,0 +1,95 @@
+﻿Build started 2014/10/11 23:20:41.
+     1>Project "D:\My Documents\Visual Studio 2012\Projects\PDF_source\xpdf_vs2010-3.03\pdf2text\pdf2text.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /D _MBCS /D WIN32 /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\xpdf\Annot.cc ..\xpdf\Array.cc ..\xpdf\BuiltinFont.cc ..\xpdf\BuiltinFontTables.cc ..\xpdf\Catalog.cc ..\xpdf\CharCodeToUnicode.cc ..\xpdf\CMap.cc ..\xpdf\Decrypt.cc ..\xpdf\Dict.cc ..\xpdf\Error.cc ..\xpdf\FontEncodingTables.cc ..\xpdf\Function.cc ..\xpdf\Gfx.cc ..\xpdf\GfxFont.cc ..\xpdf\GfxState.cc ..\xpdf\GlobalParams.cc ..\xpdf\ImageOutputDev.cc ..\xpdf\JArithmeticDecoder.cc ..\xpdf\JBIG2Stream.cc ..\xpdf\JPXStream.cc ..\xpdf\Lexer.cc ..\xpdf\Link.cc ..\xpdf\NameToCharCode.cc ..\xpdf\Object.cc ..\xpdf\OptionalContent.cc ..\xpdf\Outline.cc ..\xpdf\OutputDev.cc ..\xpdf\Page.cc ..\xpdf\Parser.cc ..\xpdf\PDFDoc.cc ..\xpdf\PDFDocEncoding.cc ..\xpdf\pdftotext.cc ..\xpdf\PreScanOutputDev.cc ..\xpdf\PSTokenizer.cc ..\xpdf\SecurityHandler.cc ..\xpdf\Stream.cc ..\xpdf\TextOutputDev.cc ..\xpdf\UnicodeMap.cc ..\xpdf\UnicodeTypeTable.cc ..\xpdf\XpdfPluginAPI.cc ..\xpdf\XRef.cc
+         XRef.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\xref.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         XpdfPluginAPI.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\xpdfpluginapi.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         UnicodeTypeTable.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\unicodetypetable.h(12): fatal error C1083: Cannot open include file: 'gtypes.h': No such file or directory
+         UnicodeMap.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\unicodemap.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         TextOutputDev.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\textoutputdev.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Stream.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\stream.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         SecurityHandler.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\securityhandler.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         PSTokenizer.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\pstokenizer.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         PreScanOutputDev.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\prescanoutputdev.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         pdftotext.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\pdftotext.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         PDFDocEncoding.cc
+         PDFDoc.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\pdfdoc.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Parser.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\parser.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Page.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\page.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         OutputDev.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\outputdev.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Outline.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\outline.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         OptionalContent.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\optionalcontent.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Object.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\object.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         NameToCharCode.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\nametocharcode.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Link.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\link.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Generating Code...
+         Compiling...
+         Lexer.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\lexer.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         JPXStream.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\jpxstream.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         JBIG2Stream.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\jbig2stream.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         JArithmeticDecoder.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\jarithmeticdecoder.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         ImageOutputDev.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\imageoutputdev.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         GlobalParams.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\globalparams.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         GfxState.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\gfxstate.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         GfxFont.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\gfxfont.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Gfx.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\gfx.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Function.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\function.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         FontEncodingTables.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\fontencodingtables.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Error.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\error.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Dict.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\dict.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Decrypt.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\decrypt.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         CMap.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\cmap.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         CharCodeToUnicode.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\charcodetounicode.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Catalog.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\catalog.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         BuiltinFontTables.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\builtinfonttables.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         BuiltinFont.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\builtinfont.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Array.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\array.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Generating Code...
+         Compiling...
+         Annot.cc
+     1>d:\my documents\visual studio 2012\projects\pdf_source\xpdf_vs2010-3.03\xpdf\annot.cc(9): fatal error C1083: Cannot open include file: 'aconf.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "D:\My Documents\Visual Studio 2012\Projects\PDF_source\xpdf_vs2010-3.03\pdf2text\pdf2text.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.23

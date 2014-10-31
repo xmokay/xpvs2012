@@ -1,0 +1,64 @@
+﻿Build started 2014/4/15 0:48:26.
+     1>Project "C:\Users\xuming\Desktop\xpdf_vs2010-3.03\fofi\fofi.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt FoFiBase.cc FoFiEncodings.cc FoFiIdentifier.cc FoFiTrueType.cc FoFiType1.cc FoFiType1C.cc
+         FoFiType1C.cc
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitype1c.cc(2706): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitype1c.cc(2714): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+         FoFiType1.cc
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitype1.cc(116): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitype1.cc(206): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitype1.cc(209): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\string.h(200) : see declaration of 'strtok'
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitype1.cc(230): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitype1.cc(272): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\string.h(200) : see declaration of 'strtok'
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitype1.cc(280): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitype1.cc(287): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\string.h(200) : see declaration of 'strtok'
+         FoFiTrueType.cc
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofitruetype.cc(1553): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         FoFiIdentifier.cc
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofiidentifier.cc(174): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+         FoFiEncodings.cc
+         FoFiBase.cc
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\goo\gmem.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xuming\desktop\xpdf_vs2010-3.03\fofi\fofibase.cc(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+         Generating Code...
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\xuming\Desktop\xpdf_vs2010-3.03\Debug\fofi.lib" /NOLOGO Debug\FoFiBase.obj
+         Debug\FoFiEncodings.obj
+         Debug\FoFiIdentifier.obj
+         Debug\FoFiTrueType.obj
+         Debug\FoFiType1.obj
+         Debug\FoFiType1C.obj
+         fofi.vcxproj -> C:\Users\xuming\Desktop\xpdf_vs2010-3.03\Debug\fofi.lib
+     1>Done Building Project "C:\Users\xuming\Desktop\xpdf_vs2010-3.03\fofi\fofi.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.90
